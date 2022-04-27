@@ -7,4 +7,4 @@
 
 #1 - [주니어 개발자로 첫 출근 💻](https://brunch.co.kr/@mymininic/5)
 
-
+#2 - [현업이라는 것의 함정 📻](https://brunch.co.kr/@mymininic/6)
