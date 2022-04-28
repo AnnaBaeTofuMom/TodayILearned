@@ -3,7 +3,7 @@
 
 ## Swift
 
-#1 - Algorithm Basic Rules
+#1 - [Algorithm01 - 입력받기](https://github.com/AnnaBaeTofuMom/TodayILearned/tree/master/Algorithm%20using%20Swift/Algorithm01)
 
 ## Diary
 
