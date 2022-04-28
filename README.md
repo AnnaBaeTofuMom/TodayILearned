@@ -3,6 +3,8 @@
 
 ## Swift
 
+#1 - Algorithm Basic Rules
+
 ## Diary
 
 #1 - [주니어 개발자로 첫 출근 💻](https://brunch.co.kr/@mymininic/5)
