@@ -5,6 +5,8 @@
 
 #1 - [Algorithm01 - 입력받기](https://github.com/AnnaBaeTofuMom/TodayILearned/tree/master/Algorithm%20using%20Swift/Algorithm01)
 
+#2 - [Algorithm02 - Greedy](https://github.com/AnnaBaeTofuMom/TodayILearned/tree/master/Algorithm%20using%20Swift/Algorithm02)
+
 ## Diary
 
 #1 - [주니어 개발자로 첫 출근 💻](https://brunch.co.kr/@mymininic/5)
