@@ -15,4 +15,4 @@
 
 #2 - [현업이라는 것의 함정 📻](https://brunch.co.kr/@mymininic/6)
 
-#3 - [떳다, 런각🏃🏻‍♀️](https://brunch.co.kr/@mymininic/7)
+#3 - [떴다, 런각🏃🏻‍♀️](https://brunch.co.kr/@mymininic/7)
