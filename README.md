@@ -17,7 +17,7 @@
 
 #2 - [UINavigationController와 UITabBarController를 사용하는 방법](https://ios-developer-storage.tistory.com/entry/UINavigationController-%EC%99%80-UITabBarController-%EB%8F%99%EC%8B%9C%EC%97%90-%EC%93%B0%EB%8A%94-%EB%B0%A9%EB%B2%95-Swift?category=986022)
 
-#3 - [Singleton과 그것을 패턴을 사용하는 이유](https://ios-developer-storage.tistory.com/entry/iOSSwift-Singleton-%ED%8C%A8%ED%84%B4-%EC%82%AC%EC%9A%A9%EC%9D%98-%EC%9D%B4%EC%9C%A0%EC%99%80-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95?category=986022)
+#3 - [Singleton 패턴과 그것을 사용하는 이유](https://ios-developer-storage.tistory.com/entry/iOSSwift-Singleton-%ED%8C%A8%ED%84%B4-%EC%82%AC%EC%9A%A9%EC%9D%98-%EC%9D%B4%EC%9C%A0%EC%99%80-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95?category=986022)
 
 #4 - [NavigationBar에 SearchBar 예쁘게 넣기](https://ios-developer-storage.tistory.com/entry/iOSSwift-Navigation-Bar%EC%97%90-Search-Bar-%EC%98%88%EC%81%98%EA%B2%8C-%EB%84%A3%EB%8A%94-%EB%B2%95?category=986022)
 
