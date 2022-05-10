@@ -27,13 +27,6 @@ func solution(number: Int) -> Int {
         count = count + nextN / coin
         nextN = nextN % coin
     }
-//    count = count + N / 500
-//    nextN = N % 500
-//    count = count + nextN / 100
-//    nextN = nextN % 100
-//    count = count + nextN / 50
-//    nextN = nextN % 50
-//    count = count + nextN / 10
 
     return count
     

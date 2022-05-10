@@ -24,7 +24,7 @@ func solution02(options: [Int], numbers: [Int]) -> Int {
     let arr = numbers.sorted { lhs, rhs in
         lhs > rhs
     }
-    // let arr = numbers.sorted(by: <)
+    // let arr = numbers.sorted(by: >)
 //    let n = options[0]
     let m = options[1]
     let k = options[2]

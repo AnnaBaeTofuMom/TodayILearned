@@ -12,6 +12,8 @@
 		1A40CCB12828E253001706A2 /* Greedy02.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A40CCB02828E253001706A2 /* Greedy02.swift */; };
 		1A40CCB32828F867001706A2 /* Greedy03.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A40CCB22828F867001706A2 /* Greedy03.swift */; };
 		1A40CCB52828FC5B001706A2 /* Greedy04.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A40CCB42828FC5B001706A2 /* Greedy04.swift */; };
+		1A40CCB7282A4170001706A2 /* Greedy05.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A40CCB6282A4170001706A2 /* Greedy05.swift */; };
+		1A40CCB9282A5262001706A2 /* Greedy06.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A40CCB8282A5262001706A2 /* Greedy06.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +35,8 @@
 		1A40CCB02828E253001706A2 /* Greedy02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Greedy02.swift; sourceTree = "<group>"; };
 		1A40CCB22828F867001706A2 /* Greedy03.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Greedy03.swift; sourceTree = "<group>"; };
 		1A40CCB42828FC5B001706A2 /* Greedy04.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Greedy04.swift; sourceTree = "<group>"; };
+		1A40CCB6282A4170001706A2 /* Greedy05.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Greedy05.swift; sourceTree = "<group>"; };
+		1A40CCB8282A5262001706A2 /* Greedy06.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Greedy06.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +74,8 @@
 				1A40CCB02828E253001706A2 /* Greedy02.swift */,
 				1A40CCB22828F867001706A2 /* Greedy03.swift */,
 				1A40CCB42828FC5B001706A2 /* Greedy04.swift */,
+				1A40CCB6282A4170001706A2 /* Greedy05.swift */,
+				1A40CCB8282A5262001706A2 /* Greedy06.swift */,
 			);
 			path = Algorithm02;
 			sourceTree = "<group>";
@@ -136,6 +142,8 @@
 				1A40CCB32828F867001706A2 /* Greedy03.swift in Sources */,
 				1A40CCAF2828DBED001706A2 /* Greedy01.swift in Sources */,
 				1A40CCB12828E253001706A2 /* Greedy02.swift in Sources */,
+				1A40CCB7282A4170001706A2 /* Greedy05.swift in Sources */,
+				1A40CCB9282A5262001706A2 /* Greedy06.swift in Sources */,
 				1A40CCA82828DADE001706A2 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

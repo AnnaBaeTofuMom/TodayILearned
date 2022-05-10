@@ -21,4 +21,6 @@ import Foundation
 //
 //print(answer)
 
-print(solution4(number: 28, divide: 5))
+//print(solution4(number: 28, divide: 5))
+
+solution6("4177252841", 4)
