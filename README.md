@@ -12,6 +12,12 @@
 ## Swift 
 #1 - [Swift의 의존성 주입(Dependency Injection)을 알아보자!](https://ios-developer-storage.tistory.com/entry/Swift-Dependency-Injection-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85-%EB%B9%84%EC%9C%A0%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 
+#2 - [Protocol 이해하기](https://ios-developer-storage.tistory.com/entry/iOSSwift-Protocol-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%84-%EC%9E%AC%EB%AF%B8%EC%9E%88%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%B4%EB%B3%B4%EC%9E%90?category=986022)
+
+#3 - [값 타입과 참조타입 실험하기](https://ios-developer-storage.tistory.com/entry/Swift-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8%EC%9D%98-%EA%B0%92-%ED%83%80%EC%9E%85%EA%B3%BC-%EC%B0%B8%EC%A1%B0-%ED%83%80%EC%9E%85-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%8B%A4%ED%97%98%ED%95%98%EA%B8%B0?category=986022)
+
+#4 - [sort()와 sorted()의 차이점](https://ios-developer-storage.tistory.com/entry/Swift-sort-%EC%99%80-sorted%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C?category=986022)
+
 ### 스위프트 토막상식 💡
 #1 - [MKMapKit, CLCoreLocation 사용법](https://ios-developer-storage.tistory.com/entry/MKMapKit-CLCoreLocation-%EC%98%88%EC%8B%9C%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EC%A0%9C%EA%B3%B5?category=986022)
 
@@ -21,13 +27,9 @@
 
 #4 - [NavigationBar에 SearchBar 예쁘게 넣기](https://ios-developer-storage.tistory.com/entry/iOSSwift-Navigation-Bar%EC%97%90-Search-Bar-%EC%98%88%EC%81%98%EA%B2%8C-%EB%84%A3%EB%8A%94-%EB%B2%95?category=986022)
 
-#5 - [값 타입과 참조타입 실험하기](https://ios-developer-storage.tistory.com/entry/Swift-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8%EC%9D%98-%EA%B0%92-%ED%83%80%EC%9E%85%EA%B3%BC-%EC%B0%B8%EC%A1%B0-%ED%83%80%EC%9E%85-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%8B%A4%ED%97%98%ED%95%98%EA%B8%B0?category=986022)
+#5 - [스택과 스택오버플로우](https://ios-developer-storage.tistory.com/entry/iOSSwift-%EC%8A%A4%ED%83%9DStack%EA%B3%BC-%EC%8A%A4%ED%83%9D-%EC%98%A4%EB%B2%84%ED%94%8C%EB%A1%9C%EC%9A%B0%EB%9E%80-%EC%98%88%EC%A0%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0?category=986022)
 
-#6 - [스택과 스택오버플로우](https://ios-developer-storage.tistory.com/entry/iOSSwift-%EC%8A%A4%ED%83%9DStack%EA%B3%BC-%EC%8A%A4%ED%83%9D-%EC%98%A4%EB%B2%84%ED%94%8C%EB%A1%9C%EC%9A%B0%EB%9E%80-%EC%98%88%EC%A0%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0?category=986022)
-
-#7 - [Protocol 이해하기](https://ios-developer-storage.tistory.com/entry/iOSSwift-Protocol-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C%EC%9D%84-%EC%9E%AC%EB%AF%B8%EC%9E%88%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%B4%EB%B3%B4%EC%9E%90?category=986022)
-
-#8 - [sort()와 sorted()의 차이점](https://ios-developer-storage.tistory.com/entry/Swift-sort-%EC%99%80-sorted%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C?category=986022)
+#6 - [i18N, 다국어 지원하는 앱 만들기](https://ios-developer-storage.tistory.com/entry/Swift-iOS-i18N-Localizing-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%A7%80%EC%9B%90%ED%95%98%EB%8A%94-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 
 
