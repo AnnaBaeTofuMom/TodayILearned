@@ -20,6 +20,8 @@
 
 #4 - [sort()와 sorted()의 차이점](https://ios-developer-storage.tistory.com/entry/Swift-sort-%EC%99%80-sorted%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C?category=986022)
 
+#5 - [고차함수 map, filter, reduce 사용하기](https://ios-developer-storage.tistory.com/entry/Swift-%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98-map-filter-reduce%EB%A5%BC-%EC%99%84%EC%A0%84-%EC%89%BD%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
+
 ### 스위프트 토막상식 💡
 #1 - [MKMapKit, CLCoreLocation 사용법](https://ios-developer-storage.tistory.com/entry/MKMapKit-CLCoreLocation-%EC%98%88%EC%8B%9C%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EC%A0%9C%EA%B3%B5?category=986022)
 
