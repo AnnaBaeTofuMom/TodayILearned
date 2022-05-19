@@ -13,6 +13,8 @@
 
 #4 = [Algorithm04 - Search(DFS, BFS)](https://github.com/AnnaBaeTofuMom/TodayILearned/tree/master/Algorithm%20using%20Swift/Algorithm04)
 
+[DFS, BFS 이해를 위한 기초설명 <1>](https://ios-developer-storage.tistory.com/entry/Algorithm-Swift%EB%A1%9C-%EB%B3%B4%EB%8A%94-DFS-BFS-%EC%9B%90%EB%A6%AC%EB%B6%80%ED%84%B0-%EB%BD%80%EA%B0%9C%EA%B8%B0-1)
+
 ## Swift 
 #1 - [Swift의 의존성 주입(Dependency Injection)을 알아보자!](https://ios-developer-storage.tistory.com/entry/Swift-Dependency-Injection-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85-%EB%B9%84%EC%9C%A0%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 
