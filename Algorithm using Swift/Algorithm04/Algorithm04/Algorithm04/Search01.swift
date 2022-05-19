@@ -25,7 +25,7 @@ func solution01(graph: [[Int]], n: Int, m: Int) {
         }
         
         if graph[x][y] == 0 {
-            graph[x][y] == 1
+            graph[x][y] = 1
             
             dfs(x: x - 1, y: y)
             dfs(x: x, y: y - 1)
