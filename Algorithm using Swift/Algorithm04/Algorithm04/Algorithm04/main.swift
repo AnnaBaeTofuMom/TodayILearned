@@ -6,15 +6,16 @@
 //
 
 import Foundation
-
-print("Hello, World!")
-
-var graph = [
-    [0,0,1,1,0],
-    [0,0,0,1,1],
-    [1,1,1,1,1],
-    [0,0,0,0,0]
-]
-
-
-
+//
+//print("Hello, World!")
+////
+//var graph = [
+//    [0,0,1,1,0],
+//    [0,0,0,1,1],
+//    [1,1,1,1,1],
+//    [0,0,0,0,0]
+//]
+//
+//solution01(graph: graph, n: 4, m: 5)
+//
+solution03(n: "4", m: "5", start: "1")
