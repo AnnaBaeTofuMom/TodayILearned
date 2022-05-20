@@ -37,7 +37,7 @@
 
 #5 - [스택과 스택오버플로우](https://ios-developer-storage.tistory.com/entry/iOSSwift-%EC%8A%A4%ED%83%9DStack%EA%B3%BC-%EC%8A%A4%ED%83%9D-%EC%98%A4%EB%B2%84%ED%94%8C%EB%A1%9C%EC%9A%B0%EB%9E%80-%EC%98%88%EC%A0%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0?category=986022)
 
-#6 - [i18N, 다국어 지원하는 앱 만들기](https://ios-developer-storage.tistory.com/entry/Swift-iOS-i18N-Localizing-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%A7%80%EC%9B%90%ED%95%98%EB%8A%94-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+#6 - [i18n, 다국어 지원하는 앱 만들기](https://ios-developer-storage.tistory.com/entry/Swift-iOS-i18N-Localizing-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%A7%80%EC%9B%90%ED%95%98%EB%8A%94-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
 
 
