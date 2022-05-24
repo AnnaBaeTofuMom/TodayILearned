@@ -58,6 +58,29 @@ func quickSort(_ array: [Int]) -> [Int] {
 
 print(quickSort(quickArray))
 
+var countingArray = [5, 5, 7, 7, 7, 8, 8, 1, 2, 3, 5, 3, 5, 6, 7,4, 5, 2]
+
+func countingSort(_ array: [Int]) -> [Int] {
+    var array = array
+    var countingArray = Array(repeating: 0, count: array.max()! + 1)
+    var result = [Int]()
+    
+    for num in array {
+        countingArray[num] += 1
+    }
+    
+    for i in 0..<array.max()! + 1 {
+        for j in 0..<countingArray[i] {
+            result.append(i)
+        }
+    }
+    print(countingArray)
+    
+    return result
+}
+
+print(countingSort(countingArray))
+
 
 
 

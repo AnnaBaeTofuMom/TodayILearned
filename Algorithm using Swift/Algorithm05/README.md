@@ -102,13 +102,43 @@ func quickSort(_ array: [Int]) -> [Int] {
     guard let first = array.first, array.count > 1 else { return array }
  
     let pivot = first
+    //피벗보다 작은 원소를 left, 피벗보다 큰 수를 right 배열에 넣고
     let left = array.filter { $0 < pivot }
     let right = array.filter { $0 > pivot }
     
+    //그 배열을 다시 퀵 정렬(재귀)
     return quickSort(left) + [pivot] + quickSort(right)
 }
 //개발자 소들이 블로그 참고(https://babbab2.tistory.com/101)
 
+```
+
+## 계수정렬
+계수 정렬은 특정한 조건에 부합할 때만 사용할 수 있지만, 매우 빠른 정렬 알고리즘이다. 
+다만, 메모리를 크게 차지하기 때문에 가장 큰 데이터와 가장 작은 데이터가 1,000,000을 넘지 않을 때 효과적으로 사용할 수 있다.
+대신 O(N)번을 보장한다! 
+
+```Swift
+var countingArray = [5, 5, 7, 7, 7, 8, 8, 1, 2, 3, 5, 3, 5, 6, 7,4, 5, 2]
+
+func countingSort(_ array: [Int]) -> [Int] {
+    var array = array
+    var countingArray = Array(repeating: 0, count: array.max()! + 1)
+    var result = [Int]()
+    
+    for num in array {
+        countingArray[num] += 1
+    }
+    
+    for i in 0..<array.max()! + 1 {
+        for j in 0..<countingArray[i] {
+            result.append(i)
+        }
+    }
+    print(countingArray)
+    
+    return result
+}
 ```
 
 
