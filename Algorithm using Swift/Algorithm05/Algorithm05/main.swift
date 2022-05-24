@@ -44,5 +44,23 @@ for i in 1..<insertionArray.count {
 }
 print(insertionArray)
 
+var quickArray = [5, 7, 9, 0, 3, 1, 6, 2, 4, 8]
+
+func quickSort(_ array: [Int]) -> [Int] {
+    guard let first = array.first, array.count > 1 else { return array }
+ 
+    let pivot = first
+    let left = array.filter { $0 < pivot }
+    let right = array.filter { $0 > pivot }
+    
+    return quickSort(left) + [pivot] + quickSort(right)
+}
+
+print(quickSort(quickArray))
+
+
+
+
+
 
 

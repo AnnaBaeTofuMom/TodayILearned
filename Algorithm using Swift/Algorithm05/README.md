@@ -68,5 +68,51 @@ for i in 1..<insertionArray.count {
 ## 퀵 정렬
 
 퀵 정렬은 대부분의 프로그래밍 언어에서 제공하는 정렬 라이브러리의 근간이 되는 알고리즘이기도 하다. 
+퀵 정렬은 기준을 설정한 다음 큰 수와 작은 수를 교환한 후, 리스트를 반으로 나누는 방식으로 동작한다.
+아래는 호어 분할 방식을 기준으로 퀵 정렬을 설명하겠다. 
 
-퀵 정렬은 기준을 설정한 다음 
+```Swift
+var quickArray = [5, 7, 9, 0, 3, 1, 6, 2, 4, 8]
+```
+
+1. 배열의 첫번째 원소를 피벗으로 설정하고, 왼쪽에서부터는 피벗보다 큰 수를, 오른쪽에서 부터는 피벗보다 작은 수를 선택하여 서로의 자리를 바꿔준다. 이를 반복한다. 
+
+```Swift
+var quickArray = [5, 4, 2, 0, 3, 1, 6, 9, 7, 8]
+```
+
+2. 자리를 바꾸다가 서로의 자리가 엇갈리는(겹치는) 경우에 작은 데이터와 피벗의 위치를 바꿔준다. 
+3. 피벗을 기준으로 왼쪽에는 작은 수들이, 오른쪽에 큰 수들이 남게 된다. 
+
+```Swift
+var quickArray = [1, 4, 2, 0, 3, 5, 6, 9, 7, 8]
+```
+
+4. 5를 기준으로 앞 뒤가 나누어 진 상태에서 다시 퀵 정렬을 시작한다. 
+```Swift
+var quickArray = [1, 4, 2, 0, 3, 5, 6, 9, 7, 8]
+var leftArray = [1, 4, 2, 0, 3] -> [1, 0, 2, 4, 3] -> [0, 1, 2, 4, 3] -> [0, 1, 2, 4, 3] -> [0, 1, 2, 3, 4]
+var rightArray = [5, 6, 9, 7, 8]
+
+```
+
+### 퀵 정렬 소스코드
+```Swift 
+func quickSort(_ array: [Int]) -> [Int] {
+    guard let first = array.first, array.count > 1 else { return array }
+ 
+    let pivot = first
+    let left = array.filter { $0 < pivot }
+    let right = array.filter { $0 > pivot }
+    
+    return quickSort(left) + [pivot] + quickSort(right)
+}
+//개발자 소들이 블로그 참고(https://babbab2.tistory.com/101)
+
+```
+
+
+
+
+
+
