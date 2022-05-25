@@ -44,5 +44,46 @@ for i in 1..<insertionArray.count {
 }
 print(insertionArray)
 
+var quickArray = [5, 7, 9, 0, 3, 1, 6, 2, 4, 8]
+
+func quickSort(_ array: [Int]) -> [Int] {
+    guard let first = array.first, array.count > 1 else { return array }
+ 
+    let pivot = first
+    let left = array.filter { $0 < pivot }
+    let right = array.filter { $0 > pivot }
+    
+    return quickSort(left) + [pivot] + quickSort(right)
+}
+
+print(quickSort(quickArray))
+
+var countingArray = [5, 5, 7, 7, 7, 8, 8, 1, 2, 3, 5, 3, 5, 6, 7,4, 5, 2]
+
+func countingSort(_ array: [Int]) -> [Int] {
+    var array = array
+    var countingArray = Array(repeating: 0, count: array.max()! + 1)
+    var result = [Int]()
+    
+    for num in array {
+        countingArray[num] += 1
+    }
+    
+    for i in 0..<array.max()! + 1 {
+        for j in 0..<countingArray[i] {
+            result.append(i)
+        }
+    }
+    print(countingArray)
+    
+    return result
+}
+
+print(countingSort(countingArray))
+
+
+
+
+
 
 
