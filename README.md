@@ -3,6 +3,8 @@
 
 ## Algorithm in Swift
 
+#0 - [코딩테스트 기출문제](https://github.com/AnnaBaeTofuMom/TodayILearned/tree/master/Algorithm%20using%20Swift/CodingTestQuestions)
+
 #1 - [Algorithm01 - 입력받기](https://github.com/AnnaBaeTofuMom/TodayILearned/tree/master/Algorithm%20using%20Swift/Algorithm01)
 
 #2 - [Algorithm02 - Greedy](https://github.com/AnnaBaeTofuMom/TodayILearned/tree/master/Algorithm%20using%20Swift/Algorithm02)
