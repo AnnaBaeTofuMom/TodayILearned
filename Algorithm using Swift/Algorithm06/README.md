@@ -1,4 +1,6 @@
 
+```Swift
+
 var binaryArray = [0, 1, 4, 6, 8, 11, 14, 23, 24, 26, 28, 31, 41, 50]
 
 func recursiveBinary(array: [Int], target: Int, start: Int, end: Int) -> Int? {
@@ -51,6 +53,8 @@ func repetitionBinary(array: [Int], target: Int, start: Int, end: Int) -> Int? {
 var result2 = repetitionBinary(array: binaryArray, target: 4, start: 0, end: binaryArray.count - 1)
 print(result2)
 
+
+```Swift
 
 ### 트리 자료구조
 
