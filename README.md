@@ -17,6 +17,8 @@
 
 #5 - [Algorithm05 - 정렬](https://github.com/AnnaBaeTofuMom/TodayILearned/tree/master/Algorithm%20using%20Swift/Algorithm05)
 
+#6 - [Algorithm06 - 이분탐색](https://github.com/AnnaBaeTofuMom/TodayILearned/tree/master/Algorithm%20using%20Swift/Algorithm06)
+
 ## Swift 
 #1 - [Swift의 의존성 주입(Dependency Injection)을 알아보자!](https://ios-developer-storage.tistory.com/entry/Swift-Dependency-Injection-%EC%9D%98%EC%A1%B4%EC%84%B1-%EC%A3%BC%EC%9E%85-%EB%B9%84%EC%9C%A0%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 
