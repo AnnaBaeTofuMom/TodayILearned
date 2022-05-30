@@ -32,6 +32,8 @@
 
 #5 - [고차함수 map, filter, reduce 사용하기](https://ios-developer-storage.tistory.com/entry/Swift-%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98-map-filter-reduce%EB%A5%BC-%EC%99%84%EC%A0%84-%EC%89%BD%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
 
+#6 - [GCD - 동기, 비동기, 직렬, 동시](https://github.com/Youngminah/TIL/issues/66)
+
 ### 스위프트 토막상식 💡
 #1 - [MKMapKit, CLCoreLocation 사용법](https://ios-developer-storage.tistory.com/entry/MKMapKit-CLCoreLocation-%EC%98%88%EC%8B%9C%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EC%A0%9C%EA%B3%B5?category=986022)
 
