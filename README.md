@@ -34,6 +34,8 @@
 
 #6 - [GCD - 동기, 비동기, 직렬, 동시](https://github.com/Youngminah/TIL/issues/66)
 
+#7 - [집단자료형 - 배열과 집합](https://ios-developer-storage.tistory.com/entry/Swift-%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8%EC%9D%98-%EC%A7%91%EB%8B%A8-%EC%9E%90%EB%A3%8C%ED%98%95%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-%EB%B0%B0%EC%97%B4%EA%B3%BC-%EC%A7%91%ED%95%A9)
+
 ### 스위프트 토막상식 💡
 #1 - [MKMapKit, CLCoreLocation 사용법](https://ios-developer-storage.tistory.com/entry/MKMapKit-CLCoreLocation-%EC%98%88%EC%8B%9C%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%EC%A0%9C%EA%B3%B5?category=986022)
 
