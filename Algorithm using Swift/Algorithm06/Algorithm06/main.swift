@@ -62,3 +62,23 @@ func repetitionBinary(array: [Int], target: Int, start: Int, end: Int) -> Int? {
 
 var result2 = repetitionBinary(array: binaryArray, target: 4, start: 0, end: binaryArray.count - 1)
 print(result2)
+
+
+var array = ["똥개", "멍청이", "해삼", "고구마", "사이다"] //타입이 같은 아이템만 넣을 수 있어요.
+
+array[0] // "똥개"
+array[1] // "멍청이"
+
+array.remove(at: 0)
+
+print(array)
+
+let parts = [8, 3, 7, 9, 2]
+let sortedParts = parts.sorted()
+
+let require = [1, 3, 7, 9]
+
+solution01(array: sortedParts, require: require)
+
+var height = tteokBinary(tteokHeight: [15, 15, 16, 13], target: 11)
+print(height)

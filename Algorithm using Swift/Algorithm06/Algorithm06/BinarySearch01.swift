@@ -27,3 +27,43 @@ import Foundation
  
  손님이 요청한 부품 번호의 순서대로 부품을 확인해 부품이 있으면 yes, 없으면 no를 출력하시오.
  */
+
+func binarySearch(array: [Int], target: Int, start: Int, end: Int) -> Bool {
+    
+    var start = start
+    var end = end
+    
+    while start <= end {
+        var mid = (start + end) / 2
+        
+        if array[mid] == target {
+            return true
+        }
+    
+        if array[mid] < target {
+            start = mid + 1
+        } else {
+            end = mid - 1
+        }
+        
+    }
+    
+    return false
+    
+}
+
+func solution01(array: [Int], require: [Int]) {
+    
+    for item in require {
+        var result = binarySearch(array: array, target: item, start: 0, end: array.count - 1)
+        
+        if result == true {
+            print("yes")
+        } else {
+            print("no")
+            
+        }
+    }
+}
+
+
