@@ -7,5 +7,5 @@
 
 import Foundation
 
-print("Hello, World!")
 
+print(solution01(n: 26))
