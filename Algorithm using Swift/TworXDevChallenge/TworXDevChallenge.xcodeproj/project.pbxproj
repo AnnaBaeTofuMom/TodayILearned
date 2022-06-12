@@ -7,13 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1A58CDA228556DCE001082F6 /* TworXChallenge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A58CDA128556DCE001082F6 /* TworXChallenge.swift */; };
-		1A58CDA428558AD7001082F6 /* TworXChallenge3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A58CDA328558AD7001082F6 /* TworXChallenge3.swift */; };
-		3A9603FB283E5CD000D4958D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9603FA283E5CD000D4958D /* main.swift */; };
+		1A58CD9B28556D75001082F6 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A58CD9A28556D75001082F6 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		3A9603F5283E5CD000D4958D /* CopyFiles */ = {
+		1A58CD9528556D75001082F6 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
 			dstPath = /usr/share/man/man1/;
@@ -25,14 +23,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		1A58CDA128556DCE001082F6 /* TworXChallenge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TworXChallenge.swift; sourceTree = "<group>"; };
-		1A58CDA328558AD7001082F6 /* TworXChallenge3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TworXChallenge3.swift; sourceTree = "<group>"; };
-		3A9603F7283E5CD000D4958D /* CodingTestQuestions */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodingTestQuestions; sourceTree = BUILT_PRODUCTS_DIR; };
-		3A9603FA283E5CD000D4958D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		1A58CD9728556D75001082F6 /* TworXDevChallenge */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = TworXDevChallenge; sourceTree = BUILT_PRODUCTS_DIR; };
+		1A58CD9A28556D75001082F6 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		3A9603F4283E5CD000D4958D /* Frameworks */ = {
+		1A58CD9428556D75001082F6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,68 +38,66 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		3A9603EE283E5CD000D4958D = {
+		1A58CD8E28556D75001082F6 = {
 			isa = PBXGroup;
 			children = (
-				3A9603F9283E5CD000D4958D /* CodingTestQuestions */,
-				3A9603F8283E5CD000D4958D /* Products */,
+				1A58CD9928556D75001082F6 /* TworXDevChallenge */,
+				1A58CD9828556D75001082F6 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		3A9603F8283E5CD000D4958D /* Products */ = {
+		1A58CD9828556D75001082F6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3A9603F7283E5CD000D4958D /* CodingTestQuestions */,
+				1A58CD9728556D75001082F6 /* TworXDevChallenge */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3A9603F9283E5CD000D4958D /* CodingTestQuestions */ = {
+		1A58CD9928556D75001082F6 /* TworXDevChallenge */ = {
 			isa = PBXGroup;
 			children = (
-				3A9603FA283E5CD000D4958D /* main.swift */,
-				1A58CDA128556DCE001082F6 /* TworXChallenge.swift */,
-				1A58CDA328558AD7001082F6 /* TworXChallenge3.swift */,
+				1A58CD9A28556D75001082F6 /* main.swift */,
 			);
-			path = CodingTestQuestions;
+			path = TworXDevChallenge;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3A9603F6283E5CD000D4958D /* CodingTestQuestions */ = {
+		1A58CD9628556D75001082F6 /* TworXDevChallenge */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3A9603FE283E5CD000D4958D /* Build configuration list for PBXNativeTarget "CodingTestQuestions" */;
+			buildConfigurationList = 1A58CD9E28556D75001082F6 /* Build configuration list for PBXNativeTarget "TworXDevChallenge" */;
 			buildPhases = (
-				3A9603F3283E5CD000D4958D /* Sources */,
-				3A9603F4283E5CD000D4958D /* Frameworks */,
-				3A9603F5283E5CD000D4958D /* CopyFiles */,
+				1A58CD9328556D75001082F6 /* Sources */,
+				1A58CD9428556D75001082F6 /* Frameworks */,
+				1A58CD9528556D75001082F6 /* CopyFiles */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = CodingTestQuestions;
-			productName = CodingTestQuestions;
-			productReference = 3A9603F7283E5CD000D4958D /* CodingTestQuestions */;
+			name = TworXDevChallenge;
+			productName = TworXDevChallenge;
+			productReference = 1A58CD9728556D75001082F6 /* TworXDevChallenge */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		3A9603EF283E5CD000D4958D /* Project object */ = {
+		1A58CD8F28556D75001082F6 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
-				LastSwiftUpdateCheck = 1340;
-				LastUpgradeCheck = 1340;
+				LastSwiftUpdateCheck = 1310;
+				LastUpgradeCheck = 1310;
 				TargetAttributes = {
-					3A9603F6283E5CD000D4958D = {
-						CreatedOnToolsVersion = 13.4;
+					1A58CD9628556D75001082F6 = {
+						CreatedOnToolsVersion = 13.1;
 					};
 				};
 			};
-			buildConfigurationList = 3A9603F2283E5CD000D4958D /* Build configuration list for PBXProject "CodingTestQuestions" */;
+			buildConfigurationList = 1A58CD9228556D75001082F6 /* Build configuration list for PBXProject "TworXDevChallenge" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -111,37 +105,36 @@
 				en,
 				Base,
 			);
-			mainGroup = 3A9603EE283E5CD000D4958D;
-			productRefGroup = 3A9603F8283E5CD000D4958D /* Products */;
+			mainGroup = 1A58CD8E28556D75001082F6;
+			productRefGroup = 1A58CD9828556D75001082F6 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3A9603F6283E5CD000D4958D /* CodingTestQuestions */,
+				1A58CD9628556D75001082F6 /* TworXDevChallenge */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		3A9603F3283E5CD000D4958D /* Sources */ = {
+		1A58CD9328556D75001082F6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1A58CDA228556DCE001082F6 /* TworXChallenge.swift in Sources */,
-				3A9603FB283E5CD000D4958D /* main.swift in Sources */,
-				1A58CDA428558AD7001082F6 /* TworXChallenge3.swift in Sources */,
+				1A58CD9B28556D75001082F6 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		3A9603FC283E5CD000D4958D /* Debug */ = {
+		1A58CD9C28556D75001082F6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_ENABLE_OBJC_WEAK = YES;
@@ -185,7 +178,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 12.3;
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -195,13 +188,14 @@
 			};
 			name = Debug;
 		};
-		3A9603FD283E5CD000D4958D /* Release */ = {
+		1A58CD9D28556D75001082F6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_ENABLE_OBJC_WEAK = YES;
@@ -239,7 +233,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 12.3;
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = macosx;
@@ -248,7 +242,7 @@
 			};
 			name = Release;
 		};
-		3A9603FF283E5CD000D4958D /* Debug */ = {
+		1A58CD9F28556D75001082F6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -259,7 +253,7 @@
 			};
 			name = Debug;
 		};
-		3A960400283E5CD000D4958D /* Release */ = {
+		1A58CDA028556D75001082F6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -273,25 +267,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3A9603F2283E5CD000D4958D /* Build configuration list for PBXProject "CodingTestQuestions" */ = {
+		1A58CD9228556D75001082F6 /* Build configuration list for PBXProject "TworXDevChallenge" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3A9603FC283E5CD000D4958D /* Debug */,
-				3A9603FD283E5CD000D4958D /* Release */,
+				1A58CD9C28556D75001082F6 /* Debug */,
+				1A58CD9D28556D75001082F6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3A9603FE283E5CD000D4958D /* Build configuration list for PBXNativeTarget "CodingTestQuestions" */ = {
+		1A58CD9E28556D75001082F6 /* Build configuration list for PBXNativeTarget "TworXDevChallenge" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3A9603FF283E5CD000D4958D /* Debug */,
-				3A960400283E5CD000D4958D /* Release */,
+				1A58CD9F28556D75001082F6 /* Debug */,
+				1A58CDA028556D75001082F6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 3A9603EF283E5CD000D4958D /* Project object */;
+	rootObject = 1A58CD8F28556D75001082F6 /* Project object */;
 }
