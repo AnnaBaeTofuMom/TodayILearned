@@ -9,6 +9,8 @@
 /* Begin PBXBuildFile section */
 		1A58CDA228556DCE001082F6 /* TworXChallenge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A58CDA128556DCE001082F6 /* TworXChallenge.swift */; };
 		1A58CDA428558AD7001082F6 /* TworXChallenge3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A58CDA328558AD7001082F6 /* TworXChallenge3.swift */; };
+		1A58CDA6285B4599001082F6 /* WCommerce01.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A58CDA5285B4599001082F6 /* WCommerce01.swift */; };
+		1A58CDA8285B4A2F001082F6 /* WCommerce02.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A58CDA7285B4A2F001082F6 /* WCommerce02.swift */; };
 		3A9603FB283E5CD000D4958D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A9603FA283E5CD000D4958D /* main.swift */; };
 /* End PBXBuildFile section */
 
@@ -27,6 +29,8 @@
 /* Begin PBXFileReference section */
 		1A58CDA128556DCE001082F6 /* TworXChallenge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TworXChallenge.swift; sourceTree = "<group>"; };
 		1A58CDA328558AD7001082F6 /* TworXChallenge3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TworXChallenge3.swift; sourceTree = "<group>"; };
+		1A58CDA5285B4599001082F6 /* WCommerce01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WCommerce01.swift; sourceTree = "<group>"; };
+		1A58CDA7285B4A2F001082F6 /* WCommerce02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WCommerce02.swift; sourceTree = "<group>"; };
 		3A9603F7283E5CD000D4958D /* CodingTestQuestions */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CodingTestQuestions; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A9603FA283E5CD000D4958D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -64,6 +68,8 @@
 				3A9603FA283E5CD000D4958D /* main.swift */,
 				1A58CDA128556DCE001082F6 /* TworXChallenge.swift */,
 				1A58CDA328558AD7001082F6 /* TworXChallenge3.swift */,
+				1A58CDA5285B4599001082F6 /* WCommerce01.swift */,
+				1A58CDA7285B4A2F001082F6 /* WCommerce02.swift */,
 			);
 			path = CodingTestQuestions;
 			sourceTree = "<group>";
@@ -129,6 +135,8 @@
 				1A58CDA228556DCE001082F6 /* TworXChallenge.swift in Sources */,
 				3A9603FB283E5CD000D4958D /* main.swift in Sources */,
 				1A58CDA428558AD7001082F6 /* TworXChallenge3.swift in Sources */,
+				1A58CDA6285B4599001082F6 /* WCommerce01.swift in Sources */,
+				1A58CDA8285B4A2F001082F6 /* WCommerce02.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
