@@ -23,6 +23,8 @@ class Person {
 
 var person: Person? = Person()
 
+
+//weak person과 person 의 차이 확인해보기
 let closure = { [weak person] in
     print(person?.name)
 }
