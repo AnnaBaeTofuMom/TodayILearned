@@ -8,4 +8,4 @@
 import Foundation
 
 
-solution(["muzi", "frodo", "apeach", "neo"], ["muzi frodo","muzi frodo", "apeach frodo","frodo neo","muzi neo","apeach muzi"], 2)
+//solution(["muzi", "frodo", "apeach", "neo"], ["muzi frodo","muzi frodo", "apeach frodo","frodo neo","muzi neo","apeach muzi"], 2)
