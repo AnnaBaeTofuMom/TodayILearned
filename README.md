@@ -1,6 +1,12 @@
 # Today I Learned ✏️
 배운 것을 적습니다. 개발이든 삶이든 새로운 것은 기록합니다.
 
+## Network
+
+#0 - [1장 네트워크 기본](https://github.com/AnnaBaeTofuMom/TodayILearned/blob/master/Network/ch1_basics.md)
+
+#1 - [2장 네트워크 만들기](https://github.com/AnnaBaeTofuMom/TodayILearned/blob/master/Network/ch2_make_network.md)
+
 ## Algorithm in Swift
 
 #0 - [코딩테스트 기출문제](https://github.com/AnnaBaeTofuMom/TodayILearned/tree/master/Algorithm%20using%20Swift/CodingTestQuestions)
