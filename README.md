@@ -55,7 +55,7 @@
 
 #6 - [i18n, 다국어 지원하는 앱 만들기](https://ios-developer-storage.tistory.com/entry/Swift-iOS-i18N-Localizing-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%A7%80%EC%9B%90%ED%95%98%EB%8A%94-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 
-
+#7 - [Storyboard와 Code base UI의 차이? - Outlet과 Action의 생성시점](https://github.com/AnnaBaeTofuMom/TodayILearned/issues/3)
 
 ## Diary
 
